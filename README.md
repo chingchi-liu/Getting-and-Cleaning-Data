@@ -4,7 +4,7 @@
 ## Instructions
 
 Get run\_analysis.R script.
-run\_analysis.R will download and process the data set generating a tidy data set at `./data/TidyDataSet.txt`
+run\_analysis.R will download and process the data set generating a tidy data set at ./data/TidyDataSet.txt
 
 ## Data Source
 
