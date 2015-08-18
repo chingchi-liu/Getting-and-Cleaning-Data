@@ -8,7 +8,7 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 
 "Human Activity Recognition Using Smartphones Dataset" in "Getting and Cleaning Data" course
 
-## Source Experiment & Data Set
+## Source
 
 The source data set represents data collected from the accelerometers from the Samsung Galaxy S smartphone. The data set archive can be downloaded from:
 
@@ -23,7 +23,7 @@ Use of this dataset in publications must be acknowledged by referencing the foll
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
 
-## Source Files
+## File list from source
 
 * `features_info.txt`: Shows information about the variables used on the feature vector.
 * `features.txt`: List of all features.
@@ -38,7 +38,7 @@ The following files are available for the train and test data. Their description
 * `train/subject_train.txt`: Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30.
 
 
-### Variables
+### Variable list
 
 Variables are as examined as follows .
 
